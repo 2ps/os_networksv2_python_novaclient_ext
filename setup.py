@@ -16,7 +16,7 @@ import setuptools
 
 setuptools.setup(
     name='os_networksv2_python_novaclient_ext',
-    version='0.23',
+    version='0.24',
     description='Adds rackspace networks support to python-novaclient',
     long_description=open('README.rst').read(),
     author='Rackspace',
